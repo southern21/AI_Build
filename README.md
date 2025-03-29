@@ -23,8 +23,6 @@ Many learners struggle with:
     Lack of Structure: Self-learners often fail to create a coherent learning path, leading to gaps in understanding.
     Personalization Challenges: Learning preferences vary greatly among individuals, making one-size-fits-all approaches ineffective.
 
-
-
 ## How AI Can Help:
 
 AI can revolutionize self-learning by:
@@ -38,23 +36,6 @@ AI can revolutionize self-learning by:
    Providing Interactive Feedback: Offering quizzes, summaries, or visual aids to reinforce learning.
 
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
 ##Features of the Project:
 
    Input User Goals: Users specify what they want to learn (e.g., "machine learning basics").
