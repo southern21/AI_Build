@@ -36,7 +36,7 @@ AI can revolutionize self-learning by:
    Providing Interactive Feedback: Offering quizzes, summaries, or visual aids to reinforce learning.
 
 
-##Features of the Project:
+## Features of the Project:
 
    Input User Goals: Users specify what they want to learn (e.g., "machine learning basics").
 
@@ -50,7 +50,7 @@ AI can revolutionize self-learning by:
 
    Progress Tracking: Visual dashboards showing milestones achieved.
 
-##Technologies to Use:(Data sources and AI methods)
+## Technologies to Use:(Data sources and AI methods)
 
   Natural Language Processing (NLP): For analyzing web content and extracting relevant information.
 
@@ -62,7 +62,7 @@ AI can revolutionize self-learning by:
 
   Frameworks: Flask/Django for backend development; React for frontend interfaces.
 
-##Potential Benefits:
+## Potential Benefits:
 
    Empowers self-learners with structured learning plans tailored to their needs.
 
@@ -77,16 +77,6 @@ Next Steps:
    Develop algorithms for resource ranking and recommendation.
 
    Create a prototype interface for inputting goals and tracking progress.
-
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 ## Challenges
 
@@ -269,7 +259,7 @@ If you need to use links, here's an example:
 
        Data scientists skilled in analyzing biometric data.
 
-##Skills and Assistance Needed
+## Skills and Assistance Needed
 
 To grow this project into a more advanced system, here are the key skills and resources required:
 Technical Skills
@@ -313,7 +303,7 @@ We would like to express our gratitude to the following:
    Educational Platforms and Resources
     Websites like Coursera, Khan Academy, and YouTube have served as examples of how structured learning content can be delivered effectively.
 
-  Contributors
+ ## Contributors
 
       Mehdi Haghani Rizi: Conceptualized the project and designed the initial framework.
 
