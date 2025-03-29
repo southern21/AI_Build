@@ -1,4 +1,4 @@
-# Automous Driving
+# AI Coach
 Building AI course project
 
 <!-- This is the markdown template for the final project of the Building AI course, 
