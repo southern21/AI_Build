@@ -1,5 +1,5 @@
 # Automous Driving
-Final Build AI Project
+Building AI course project
 
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
@@ -11,7 +11,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+using AI for an anutomous driving car with Ml algorithms
 
 
 ## Background
